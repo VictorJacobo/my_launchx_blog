@@ -5,3 +5,5 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+-No se exactamente que aprendere todo el curso, pero estoy emocionado.
+-Creo que cuando termine, adquirire mucho conocimiento util que espero poder aplicar en mi futura vida laboral.
