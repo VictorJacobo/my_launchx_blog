@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://victor-jacobo.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://victor-jacobo.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Título de tu blog post</title>
+      <link>https://victor-jacobo.com/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://victor-jacobo.com/posts/post_1/</guid>
+      <description>¡Hola! LaunchX es de las mejores cosas que me han pasado durante este tiempo, sinceramente esta perdiendo un poco el gusto por mi carrera (Que es ingeniera en ciencias de la computacion), pero se debia mas a la pandemia, pasar 2 años en cas aprendiendo todo por tutoriales y con muy poca programacion o sentir que no estas adquiriendo conocimientos nuevos o utiles. Conoci LaunchX por un amigo que me invito a unirme y estoy muy agradecido, me han dado momntones de animos realizar las practicas, siento que aprendido montones de cosas en tan poco tiempo y siempre me emociona realizar las practicas (aunque aveces me quedo corto de tiempo por la escuela).</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://victor-jacobo.com/posts/intro/</link>
