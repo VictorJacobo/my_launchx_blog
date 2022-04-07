@@ -7,12 +7,12 @@ Hola ✌️  soy el explorer Victor Manuel Jacobo Perez y este es mi blog person
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
--Soy estudiante de Ingenieria en ciencias de la computacion.
--Tengo conocimiento basicos en C, C++, java y assembly.
--Quiero expandir mis conocimientos y por eso tomo este curso.
--Elegi Backend en JavaScript porque me gusto mucho el lenguaje al probarlo en FrontEnd.
--Tambien durante este curso adquiri conocimientos en html y css
--Tambien durante el onboarding aprendi lo basico de python
+<p>-Soy estudiante de Ingenieria en ciencias de la computacion.<\p>
+<p>-Tengo conocimiento basicos en C, C++, java y assembly.<\p>
+<p>-Quiero expandir mis conocimientos y por eso tomo este curso.<\p>
+<p>-Elegi Backend en JavaScript porque me gusto mucho el lenguaje al probarlo en FrontEnd.<\p>
+<p>-Tambien durante este curso adquiri conocimientos en html y css.<\p>
+<p>-Tambien durante el onboarding aprendi lo basico de python<\p>
 
-¡Gracias por leer! :')
+<p>¡Gracias por leer! :')<\p>
 🚀
