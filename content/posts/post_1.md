@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Mi experiencia en LaunchX"
 date: 2022-04-06
-description: 'Mi experiencia en LaunchX'
+description: 'Describire lo que he vivido estas semanas en LaunchX'
 ---
 
 ¡Hola!
