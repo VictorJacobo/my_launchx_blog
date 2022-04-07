@@ -13,7 +13,6 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 -Elegi Backend en JavaScript porque me gusto mucho el lenguaje al probarlo en FrontEnd.
 -Tambien durante este curso adquiri conocimientos en html y css
 -Tambien durante el onboarding aprendi lo basico de python
--No se exactamente que aprendere todo el curso, pero estoy emocionado.
 
 ¡Gracias por leer! :')
 🚀
